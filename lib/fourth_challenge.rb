@@ -1,3 +1,5 @@
+epic_tragedy[:montague][:hero][:status] = "dead"
+epic_tragedy[:capulet][:heroine][:status] = "dead"  
 def fourth_challenge
 epic_tragedy = {
    :montague => {
@@ -19,7 +21,5 @@ epic_tragedy = {
       ]
    }
 }
-epic_tragedy[:montague][:hero][:status] = "dead"
-epic_tragedy[:capulet][:heroine][:status] = "dead"  
 
 end
